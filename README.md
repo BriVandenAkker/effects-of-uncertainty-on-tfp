@@ -1,2 +1,4 @@
 # effects-of-uncertainty-on-tfp
- A study looking into how exogenous changes in uncertainty effects country level TFP
+
+
+Social Infrastructure is the set of institutions and policies that determine the environment in which goods and services are produced within a country. When levels of uncertainty within a country change, policies and institutions are expected to adapt to that new environment. This paper uses foreign and domestic shocks as instruments for uncertainty as measured by bond/stock returns and volatility which are regressed on an approximate measure of short term growth in social infrastructure. Results are mixed which suggests some causal relationship between rising uncertainty as expressed in bond yields and volatility and short term changes to social infrastructure, while these results are not robust and fail to replicate when omitting certain instruments and when using stock market data as a proxy for uncertainty. 
